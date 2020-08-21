@@ -4,7 +4,7 @@ The Shiba GD-IDE is a complete redesign of GD-IDE board for the Toshiba GD-ROM O
 The GD-IDE allows you to plug in an IDE HDD into your dreamcast.  
 
 The original GD-IDE is designed by tawy / DragonCity.  
-You can find it here : [Dreamcast GD-IDE](https://boutique-dragoncity.myshopify.com/collections/dreamcast/products/dreamcast-pcb-dreamcast-gd-ide-v3-connecteur-ide)
+You can find the GD-IDE here : [Dreamcast GD-IDE](https://boutique-dragoncity.myshopify.com/collections/dreamcast/products/dreamcast-pcb-dreamcast-gd-ide-v3-connecteur-ide)
 
 ## Disclaimer
 
@@ -15,17 +15,16 @@ At the time of writing (21/08/2020) the boards have not yet been tested.
 
 KiCad 3D model:  
 <img src="./pics/Shiba GD-IDE front.png">  
-  
+
 <img src="./pics/Shiba GD-IDE back.png">  
 
 
 FreeCAD 3D model:  
-  
 <img src="./pics/Shiba GD-IDE freecad model.png">
 
 ## Compatible GD-ROM
 
-The Shiba GD-IDE is only compatible with GD-ROM drive that have a Toshiba IC on top.  
+The Shiba GD-IDE is only compatible with GD-ROM drive that have a Toshiba IC on top, like shown below.  
 <img src="./pics/Toshiba board.png">  
 
 ## GD-ROM drive Connector
