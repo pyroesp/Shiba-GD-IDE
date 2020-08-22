@@ -1,10 +1,12 @@
 # Shiba GD-IDE
 
-The Sega Dreamcast uses a GD-ROM Optical Drive to read the game discs. Some clever people discovered that the optical drive uses connections similar to IDE HDD.  
-If you look for 'Dreamcast HDD mod' on Google Images you'll see some crazy stuff. People were just soldering 40 pin flat ribbon cable to the motherboard or optical drive directly, which looks pretty cool to be honest.  
+The Sega Dreamcast uses a GD-ROM Optical Drive to read the game discs. Some clever people discovered that the optical drive uses connections similar to an IDE HDD.  
+If you look for *Dreamcast HDD mod* on Google Images you'll see some crazy stuff. People were just soldering 40 pin flat ribbon cables to the motherboard or optical drive directly, which looks pretty cool to be honest.  
 
-Some guys designed the GD-IDE which is a PCB that allows you to plug in an IDE HDD into your Sega Dreamcast.  
+Some guys designed the GD-IDE which is a PCB, which is soldered on top of the optical drive of the Dreamcast, that allows you to plug in an IDE HDD.  
 The Shiba GD-IDE is a complete redesign of GD-IDE board for the Toshiba GD-ROM Optical Drive.  
+
+The name *Shiba GD-IDE* comes from the fact that the GD-ROM optical drive has a To**shiba** chip on it and the name of the original board. 
 
 The original GD-IDE is designed by tawy / DragonCity.  
 You can find the GD-IDE on DragonCity's webpage here: [Dreamcast GD-IDE](https://boutique-dragoncity.myshopify.com/collections/dreamcast/products/dreamcast-pcb-dreamcast-gd-ide-v3-connecteur-ide)
